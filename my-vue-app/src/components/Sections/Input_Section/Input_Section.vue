@@ -10,7 +10,7 @@
 </script>
 
 <template>
-    <div class="Section">
+    <section class="Section">
         
         <div class="Section__Text">
             <h3 class="Text__Title">
@@ -29,7 +29,7 @@
             <Button_UI text=""/>
         </form>
 
-    </div>
+    </section>
 </template>
 
 <style scoped>

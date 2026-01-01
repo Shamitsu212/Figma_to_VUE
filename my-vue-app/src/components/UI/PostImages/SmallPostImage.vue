@@ -22,7 +22,7 @@
 </script>
 
 <template>
-    <div class="Post">
+    <article class="Post">
 
         <div class="Post__wrapper">
             <img :src="src" class="wrapper__img"/>
@@ -40,7 +40,7 @@
             </time>
         </div>
 
-    </div>
+    </article>
 </template>
 
 <style scoped>

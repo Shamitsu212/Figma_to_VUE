@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="Section">
+    <section class="Section">
 
         <div class="Section__Content">
             <div class="Content__Logo">
@@ -17,7 +17,7 @@
         </div>
         
        
-    </div>
+    </section>
 </template>
 
 <style scoped>

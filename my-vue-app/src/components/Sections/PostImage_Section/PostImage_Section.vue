@@ -13,7 +13,7 @@
 </script>
 
 <template>
-    <div class="Section">
+    <section class="Section">
 
         <div class="Section__Container1">
             
@@ -78,7 +78,7 @@
             />
         </div>
         
-    </div>
+    </section>
 </template>
 
 <style scoped>
