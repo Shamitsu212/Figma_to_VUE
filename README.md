@@ -14,8 +14,6 @@
 
 ## 🖼️ Превью макетов
 
-| Макет | Превью | Ссылка на код |
-|-------|--------|---------------|
-| Макет 1 | <img src="./Preview/1.png" width="250" /> | [🔗 Код](https://github.com/Shamitsu212/Figma_to_VUE/tree/main/my-vue-app) |
+Ссылка - 
 
 ---
