@@ -14,6 +14,6 @@
 
 ## 🖼️ Превью макетов
 
-Ссылка - 
+Ссылка - https://shamitsu212.github.io/Figma_to_VUE
 
 ---
